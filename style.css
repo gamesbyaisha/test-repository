@@ -1,0 +1,44 @@
+﻿body {
+    background-image: url(file:///Users/aishabikebayeva/Desktop/gamesbyaisha.github.io/ms-paint-xp.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Scrogglet;
+    background-position: 50% 50%;
+    background-size: 1000px;
+    position: fixed;
+    top: 20%;
+    width: 100%;
+    font-size: 21px;
+    text-align: center;
+    display: inline-block;
+}
+
+/*.firstpage {
+    background-image: url("sun.png");
+}*/
+
+@font-face {font-family: Scrogglet; src: url('KGScrogglet.ttf')}
+/*#heading-link { 
+    color: green;
+}*/
+
+.highlight” {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+/*
+.heading-link {
+
+}*/
+
+/*.box {
+    background: pink;
+    padding: 100px;
+    margin: 100px;
+}*/
+.footer {
+    position: fixed;
+    bottom: 0;
+    font-size: 15px;
+}
+
