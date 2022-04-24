@@ -47,9 +47,9 @@
     background-color: black;
     color: white;
     border: none;
-    position: absolute;
-    top: 33px;
-    left: 170px;
+    position: absolute;    
+    top: 15px;
+    left: 30px;
     font-size: 18px;
     font-family: Scrogglet;
 }
