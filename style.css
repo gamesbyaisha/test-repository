@@ -106,7 +106,25 @@ ul {
     text-align: center;
 }
 
-  
+     ul li, #newColor {
+        display: block;
+        height: 54px;
+        width: 54px;
+        border-radius: 60px;
+        cursor: pointer;
+        border: 0;
+        box-shadow: 0 3px 0 0 #E0E0E0;
+    }
+
+    ul li {
+        display: inline-block;
+        margin: 0 5px 10px;
+    }
+
+.red {
+    background: #E74C3C;
+}
+
 #clear {
     background-color: pink;
     color: black;
