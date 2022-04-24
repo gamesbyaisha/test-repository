@@ -34,7 +34,7 @@
     float: left;
     background-color: pink;
     color: black;
-    border: none;
+    border: groove;
     padding: 12px;
     position: fixed;    
     top: 15px;
