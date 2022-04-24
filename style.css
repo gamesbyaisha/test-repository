@@ -43,6 +43,19 @@
     font-family: Scrogglet;
 }
 
+.paint {
+    float: left;
+    background-color: pink;
+    color: black;
+    border: groove;
+    padding: 12px;
+    position: fixed;    
+    top: 45px;
+    left: 30px;
+    font-size: 18px;
+    font-family: Scrogglet;
+}
+
 .paragraph {
     background-color: pink;
     padding: 20px;
