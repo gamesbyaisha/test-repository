@@ -44,10 +44,10 @@
 
 .buttonabout {
     float: left;
-    background-color: black;
+    background-color: pink;
     color: white;
     border: none;
-    position: absolute;    
+    position: fixed;    
     top: 15px;
     left: 30px;
     font-size: 18px;
