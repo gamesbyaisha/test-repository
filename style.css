@@ -35,6 +35,7 @@
     background-color: pink;
     color: black;
     border: none;
+    padding: 12px;
     position: fixed;    
     top: 15px;
     left: 30px;
