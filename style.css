@@ -70,3 +70,68 @@
     display: inline-block;
     */
 }
+
+
+.paint {
+    padding-top: 2px;
+}
+
+
+canvas {
+    background: #FFF;
+    display: block;
+    margin: 40px auto 10px;
+    border-radius: 5px;
+    border-left: 1px solid #E0E0E0;
+    border-right: 1px solid #E0E0E0;
+    border-top: 1px solid #E0E0E0;
+    box-shadow: 0 4px 0 0 #E0E0E0;
+}
+
+
+.controls {
+    min-height: 60px;
+    margin: 0 auto;
+    width: 600px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    float: left;
+    padding: 10px 0 20px;
+    width: 100%;
+    text-align: center;
+}
+
+    ul li, #newColor {
+        display: block;
+        height: 54px;
+        width: 54px;
+        border-radius: 60px;
+        cursor: pointer;
+        border: 0;
+        box-shadow: 0 3px 0 0 #E0E0E0;
+    }
+
+    ul li {
+        display: inline-block;
+        margin: 0 5px 10px;
+    }
+
+.red {
+    background: #E74C3C;
+}
+
+#clear {
+    background-color: pink;
+    color: black;
+    border: groove;
+    padding: 12px;
+    width: 160px;
+    height: 40px;
+    font-size: 18px;
+    font-family: Scrogglet;
+}
